@@ -1,0 +1,2 @@
+# Optional: YOLOv8 detection (pulls in PyTorch, ~1 GB)
+ultralytics>=8.3

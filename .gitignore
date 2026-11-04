@@ -1,0 +1,20 @@
+# Python environments (huge: PyTorch, CARLA wheel, etc.)
+.venv/
+.venv-*/
+venv/
+__pycache__/
+*.pyc
+
+# Build output
+build/
+dist/
+*.spec
+node_modules/
+
+# Generated / local
+carla_link/dataset/
+docs/_*.json
+*.log
+.claude/
+.DS_Store
+web/_tmp*
